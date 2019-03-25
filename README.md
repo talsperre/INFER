@@ -32,7 +32,12 @@ pip install -r requirements.txt
 ### Running the demo scripts
 In order to run our evaluation script for KITTI, run the file `infer-main.ipynb` after changing the appropriate paths of `repo_dir` and `data_dir` in the code. `repo_dir` refers to the absolute path of the repository root in your PC. `data_dir` refers to the absolute path of the corresponding dataset. 
 
-The scipts for transfer to Cityscapes & Oxford can be run in the same way.
+The scipts for transfer to Cityscapes & Oxford can be run in the same way. You need to run different scripts in order to evaluate the models on different datasets as shown below:
+- `infer-main.ipynb`: KITTI results
+- `infer-transfer.ipynb`: Cityscapes transfer
+- `oxford-test.ipynb`: Oxford RobotCar transfer
+- `baseline.ipynb`: Baseline KITTI results
+- `baseline-transfer.ipynb`: Baseline Cityscapes transfer results
 
 ### Training
 
