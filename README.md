@@ -4,7 +4,7 @@
 
 ![Example image](images/teaser.png)
 
-This repository contains code and data required to reproduce the results of **INFER: INtermediate representations for FuturE pRediction**. 
+This repository contains code and data required to reproduce the results of **INFER: INtermediate representations for FuturE pRediction** [**(arXiv)**](https://arxiv.org/abs/1903.10641)
 
 ### Datasets
 
