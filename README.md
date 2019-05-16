@@ -54,3 +54,7 @@ The different parameters available are given in the file `args.py`. In order to 
 ### Pretrained Models
 
 All other pretrained models are available on request. 
+
+### Project Page
+
+For more plots, tables and project video refer to the project page [here](https://talsperre.github.io/INFER/)
