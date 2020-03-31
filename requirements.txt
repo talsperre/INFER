@@ -15,7 +15,7 @@ beautifulsoup4==4.6.3
 bitarray==0.8.3
 bkcharts==0.2
 blaze==0.11.3
-bleach==3.0.2
+bleach==3.1.4
 bokeh==1.0.2
 boto==2.49.0
 Bottleneck==1.2.1
