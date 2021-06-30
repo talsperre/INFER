@@ -1,5 +1,5 @@
 # INFER: INtermediate representations for FuturE pRediction
-#### Shashank Srikanth, [Junaid Ahmed Ansari](https://scholar.google.co.in/citations?user=Uc8mKqMAAAAJ&hl=en), [R. Karnik Ram](http://karnikram.info/), [Sarthak Sharma](https://scholar.google.com/citations?user=4uKV9aIAAAAJ&hl=en), [J. Krishna Murthy](https://krrish94.github.io), and [K. Madhava Krishna](http://robotics.iiit.ac.in)
+#### Shashank Srikanth, [Junaid Ahmed Ansari](https://junaidcs032.github.io/), [R. Karnik Ram](http://karnikram.info/), [Sarthak Sharma](https://scholar.google.com/citations?user=4uKV9aIAAAAJ&hl=en), [J. Krishna Murthy](https://krrish94.github.io), and [K. Madhava Krishna](http://robotics.iiit.ac.in)
 
 
 ![Example image](images/teaser.png)
