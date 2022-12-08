@@ -19,7 +19,7 @@ bleach==3.0.2
 bokeh==1.0.2
 boto==2.49.0
 Bottleneck==1.2.1
-certifi==2018.11.29
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 Click==7.0
